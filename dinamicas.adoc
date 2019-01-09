@@ -1040,7 +1040,7 @@ quando todos trocarem de lugar várias vezes.
 
 == 60. Dinâmica: "do abraço"
 
-Objetivo:: sugiro uma dinâmica que criei, tendo em vista o estreitamento dos laços
+Objetivo:: Estreitamento dos laços
 
 Material:: cestinha, papel, caneta
 
@@ -1067,7 +1067,7 @@ mostra que a união impede idéias contrárias. Em seguida pede que dois do grup
 a ele aos braços, ele deixa cair-se pedindo que seus companheiros o segurem, mostrando
 como um amigo do grupo pode sustentar o outro impedindo que caia!
 
-== 62. Dinâmica: " do objeto pessoal"
+== 62. Dinâmica: cuidado dos objetos pessoais alheios
 
 Objetivo:: Comprometimento
 
@@ -1075,21 +1075,21 @@ Material:: Objeto pessoal,
 
 === Procedimento
 
-Solicitar ao grupo que traga de sua residência qualquer objeto de muito apego(valor emocional).
+Solicitar ao grupo que traga de sua residência qualquer objeto de muito apego (valor emocional).
 
-Fazer um sorteio(como se fosse amigo secreto) e trocar os objetos.
+Fazer um sorteio (como se fosse amigo secreto) e trocar os objetos.
 
 O coordenador estabelecerá um período (1 semana) para que um guarde o objeto do outro com muito carinho e troque bilhetinhos a fim de descobrir segredos sobre o colega e o objeto. Na data marcada, estes destrocarão seus pertences contando um pouco do que descobriram do outro e do objeto deste, além do cuidado especial que tiveram com o objeto.
 
 Resultados:: certa vez uma colaboradora trouxe um pacote de doce e entregou para a colega, a outra comeu tudo e no dia não tinha nada para falar nem para devolver para a amiga.
 
-Sugestão: pode ser feito com plantas
+TIP: Pode ser feito com plantas
 
 == 63. Dinâmica: " da calha"
 
-Objetivo:: Percepção + trabalho em equipe+disciplina
+Objetivo:: Percepção, trabalho em equipe, disciplina
 
-Material:: Cortar tiras de cartolina (larga+/- 15cm e 50cm de cumprimento), bolinha pequena e balde
+Material:: Cortar tiras de cartolina (larga +/- 15cm e 50cm de cumprimento), bolinha pequena e balde
 
 === Procedimento
 
@@ -1106,7 +1106,7 @@ O grupo deverá ter a percepção que ficando um ao lado do outro a bolinha cheg
 
 Assim que a equipe chegar a essa percepção, dificultar afastando o balde para mais distante, para que estes percebam a necessidade de sair do lugar e ir para o final colocando a calha ao lado do amigo e assim sucessivamente até que a bolinha chegue ao balde.
 
-== 64. Dinâmica: " da confiança"
+== 64. Dinâmica: duplas de costas ao chão
 
 Objetivo:: confiança que temos que ter no amigo do trabalho, espirito de equipe e valorização de pessoas.
 
@@ -1126,7 +1126,9 @@ Objetivo:: Melhorar a confiança nos outros.
 
 Material:: Ambientes diferentes e vendas para todos os participantes.
 
-Procedimento::É necessário ajuda para essa dinâmica.
+=== Procedimento
+
+É necessário ajuda para essa dinâmica.
 
 Vendar os olhos de cada participante, e conduzí-los até seus lugares sem dizer nada. Se
 possível descalços. Colocar em seu lugar e tirar as vendas dos olhos.
@@ -1143,17 +1145,22 @@ Material:: com balões conforme o número de participantes.
 
 === Procedimento
 
-COLOCAR O GRUPO EM círculo; DISTRIBUIR UM BALÃO PARA CADA UM; CADA PARTICIPANTE, INCLUSIVE O COORDENADOR FALARÁ ALGO BOM QUE LHE ACONTECEU NA VIDA, EX: MEU CASAMENTO....MEU NAMORADO....O NASCIMENTO DO MEU FILHO....O NASCIMENTO DA MINHA NETA....MINHA PROMOÇÃO NA EMPRESA...COMPRAR MINHA CASA
-PRÓPRIA....MEU PRIMEIRO CARRO....MINHA FORMATURA....ETC ETC...CADA VEZ QUE A
-PESSOA CONTA UMA COISA BOA VAI ASSOPRANDO O SEU BALÃO, O CIRCULO VAI SE REPETINDO E CONTANDO COISAS BOAS ATÉ QUE O BALÃO ENCHA (SE ESTOURAR PASSE OUTRO BALÃO P/ O PARTICIPANTE). DEPOIS DE ENCHEREM TODOS OS BALÕES....UNS MAIS
-OU MENOS CHEIOS CONFORME A PESSOA COMPARTILHAR COISAS BOAS QUE LHE
-ACONTECEU....ENTÃO TODOS DÃO UM NÓ NO BALÃO E JOGAM PARA CIMA....APÓS ALGUNS
-MINUTOS BATENDO TODOS EXPLODIRÃO OS BALÕES....SIMBOLIZANDO O COMPARTILHAR
-DE COISAS BOAS DE UNS PARA OS OUTROS NO GRUPO, NO AMBIENTE DE SALA DE
-AULA.....AO FUNDO UMA MÚSICA SUAVE OU BEM CONHECIDA PARA TODOS CANTAREM
-JUNTOS. ESSA DINÂMICA TENHO USADO NOS CURSOS DE TÉCNICO DE ENFERMAGEM NO
-PRIMEIRO DIA DE AULA OU ENCERRAMENTO DE ESTÁGIO NOS HOSPITAIS E TEM SIDO
-MUITO GRATIFICANTE O RESULTADO.
+Colocar o grupo em círculo, distribuir um balão para cada um. Cada participante, inclusive o coordenador falará algo bom que lhe aconteceu na vida, ex:
+
+- meu casamento (...), meu namorado (...), o nascimento do meu filho (...), o nascimento da minha neta (...),  minha promoção na empresa (...), comprar minha casa própria (...), meu primeiro carro (...) , minha formatura (...), etc.
+
+Cada vez que a
+pessoa conta uma coisa boa vai assoprando o seu balão, o circulo vai se repetindo e contando coisas boas até que o balão encha (se estourar passe outro balão p/ o participante). depois de encherem todos os balões....uns mais
+ou menos cheios conforme a pessoa compartilhar coisas boas que lhe
+aconteceu....então todos dão um nó no balão e jogam para cima....após alguns
+minutos batendo todos explodirão os balões....simbolizando o compartilhar
+de coisas boas de uns para os outros no grupo, no ambiente de sala de
+aula... ao fundo uma música suave ou bem conhecida para todos cantarem
+juntos.
+
+Essa dinâmica tenho usado nos cursos de técnico de enfermagem no
+primeiro dia de aula ou encerramento de estágio nos hospitais e tem sido
+muito gratificante o resultado.
 
 == 67. Dinâmica: "do desapego"
 
@@ -1210,7 +1217,7 @@ quem nasceu em mês par procure um parceiro que nasceu em mês par, impar com im
 assim vai. As mãos deverão estar para trás. Batem bumbum com bumbum. Fazer esta atividade sempre uma parte diferente do corpo sem repetir, e sem repetir parceiros. Quando
 chegar na última rodada, cumprimentar pelo nariz.
 
-== 70. Dinâmica: "da Bola(balão, bexiga)"
+== 70. Dinâmica: "da Bola (balão, bexiga)"
 
 Objetivo:: Testaremos a atitude de cada participante e sua coragem e se é uma pessoa que
 corre atrás de seus objetivos.
@@ -1282,8 +1289,7 @@ Material:: cadeira
 
 === Procedimento
 
-Em círculo pedi para que uma pessoa fique no meio do círculo e retire a cadeira. No círculo escolha um membro e diga: _Eu te amo! O outro pergunta _ Porque você
-me ama? ele responde: _porque você está de blusa, por exemplo. E todos que estiverem de
+Em círculo pedi para que uma pessoa fique no meio do círculo e retire a cadeira. No círculo escolha um membro e diga: _Eu te amo! O outro pergunta _Porque você me ama_? ele responde: _porque você está de blusa_, por exemplo. E todos que estiverem de
 blusa tem que mudar de lugar. Sempre uma pessoa ficará de pé, e assim sucessivamente.
 
 == 75. Dinâmica: "Caderno dos sentimentos"
