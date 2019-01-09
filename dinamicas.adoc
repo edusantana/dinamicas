@@ -1,6 +1,5 @@
 = 2XX Dinâmicas de Grupo
 v1.0, 01/2019
-:toc: left
 
 == 1. O Presente
 
@@ -115,7 +114,9 @@ Cada participante deve ficar com uma caneta hidrocor. Ao sinal, os participantes
 
 Material:: Caixa de bombom enrolada para presente
 
-Procedimento:: colocar uma música animada para tocar e vai passando no círculo uma caixa(no tamanho de uma caixa de sapato, explica-se para os participas antes que é apenas
+=== Procedimento
+
+Colocar uma música animada para tocar e vai passando no círculo uma caixa(no tamanho de uma caixa de sapato, explica-se para os participas antes que é apenas
 uma brincadeira e que dentro da caixa tem uma ordem a ser feita por quem ficar ccom ela
 quando a música parar. A pessoa que vai dar o comando deve estar de costas para não ver
 quem está a caixa ao parar a música, daí o coordenador faz um pequeno suspense, com
@@ -297,6 +298,7 @@ Cada um anota em um pequeno pedaço de papel a qualidade que acha importante em 
 
 Objetivo:: "quebra gelo" descontração geral.
 
+=== Procedimento
 
 Entrega-se a cada participante um papel com o nome de um animal, sem ver o do outro.
 
@@ -371,19 +373,11 @@ Objetivos:: O objetivo desta brincadeira é mostrar como somos covardes diante d
 
 Material:: caixa, chocolate e aparelho de som (rádio ou CD).
 
-Procedimento::
+=== Procedimento
 
 Encha a caixa com jornal para que não se perceba o que tem dentro. Coloque no fundo o chocolate e um bilhete: COMA O CHOCOLATE! Pede-se a turma que faça um círculo. O coordenador segura a caixa e explica o seguinte pra turma: _Estão vendo esta caixa? Dentro dela existe uma ordem a ser cumprida, vamos brincar de batata quente com ela, e aquele que ficar com a caixa terá que cumprir a tarefa sem reclamar. Independente do que seja... ninguém vai poder ajudar, o desafio deve ser cumprido apenas por quem ficar com a caixa (é importante assustar a turma para que eles sintam medo da caixa, dizendo que pode ser uma tarefa extremamente dificil ou vergonhosa).
-+
+
 Começa a brincadeira, com a música ligada, devem ir passando a caixa de um para o outro. Quando a múica for interrompida (o coordenador deve estar de costas para o grupo para não ver com quem está a caixa) aquele que ficou com a caixa terá que cumprir a tarefa...é importante que o coordenador faça comentários do tipo: Você está preparado? Se não tiver coragem... Depois de muito suspense quando finalmente o jovem abre a caixa encontra a gostosa surpresa. (O jovem não pode repartir o presente com ninguém).
-
-
-
-== 21. Dinâmica: Sorriso Milionário
-
-Material:: bolinhas de papel amassado
-
-Procedimento:: Essa dinâmica é usada para descontrair e integrar o grupo de uma forma divertida. Cada bolinha vale R$1.000,00. O professor distribuirá para cada pessoa do grupo 5 bolinhas de papel, essas deverão estar dispersas no local onde será realizada a brincadeira. Dado o sinal os alunos deverão sair e procurar um companheiro, em seguida devem parar em sua frente, olhar fixamente nos olhos desse companheiro que por sua vez não pode sorrir. Quem sorrir primeiro paga uma bolinha para a pessoa a quem sorriu. Vence quem terminar a brincadeira com mais "dinheiro", que será o milionário.
 
 == 22. Aprendizado
 
@@ -391,7 +385,9 @@ Verificação se aprendeu o conteúdo explicado na sala de aula ou dentro de um 
 
 Material:: Quadro Negro, Giz, Perguntas da matéria elaboradas pelo facilitador, uma fita cassete, uma bola ou um objeto.
 
-Procedimento:: A técnica busca verificar se a turma aprendeu o conteúdo explicado na sala de aula ou dentro de um módulo.
+=== Procedimento
+
+A técnica busca verificar se a turma aprendeu o conteúdo explicado na sala de aula ou dentro de um módulo.
 
 O facilitador começa fazendo um joguinho da velha, dois membros serão escolhidos com a música e passando a bola de mão em mão nos dois grupos. Cada grupo elegerá um nome dentro do tema. Ao terminar a música, os dois membros vão ao centro e tiram par ou ímpar, o vencedor escolhe X ou O (bolinha) e inicia a brincadeira. O facilitador passa a pergunta ao grupo que perdeu. O Grupo escolhe um dos membros para falar, esta escolha é por sorteio dentro do grupo. Cada membro do grupo vem para frente e vai responder a pergunta. Se um deles não souber responder, ele pode pedir ajuda a um dos membros do seu grupo mas agora quem escolhe é o membro que vai dar a resposta é o membro opositor. Não tem sorteios. Se o grupo empatar, cada um pode arriscar pontos em um jogo da forca onde será dado uma única vez a dica da palavra. Cada um grupo pode escolher o membro e definir os pontos que arrisca. Se acertar, é o campeão. Se errar, é um risco. É claro que o tema é definido anteriormente em sala de aula mas não é dito a razão de ser lido o tema. Se ambos ainda empatarem, escolhem dois membros de cada grupo que vão fazer a dança das cadeiras somente ficará na cadeira aquele que responder a pergunta que agora será falso ou verdadeiro. Mesmo que sobre um, ele terá que arriscar pontos ou passar para outro membro então o outro grupo opositor vai escolher o membro que vai responder.
 
@@ -403,26 +399,26 @@ O facilitador começa a fazer perguntas para os grupos sobre os momentos em que 
 
 Objetivo:: Quebra-gelo
 
-Procedimento::
+=== Procedimento
 
-1º momento: Formam-se duplas e então solicite para que os dois comecem a contar de
+1º momento:: Formam-se duplas e então solicite para que os dois comecem a contar de
 um a três, ora um começa, ora o outro. Fica Fácil.
-+
-2º momento: Solicite que ao invés de falar o número 1, batam palma, os outros números
-devem ser pronunciados normalmente.
-+
-3º momento: Solicite que ao invés de falar o número 2, que batam com as duas mãos na
-barriga, o número 3 deve ser pronunciado normalmente. Começa a complicar.
-+
-4º momento: Solicite que ao invés de falar o número 3, que dêm uma "reboladinha".
 
-A situação fica bem divertida. Grato.
+2º momento:: Solicite que ao invés de falar o número 1, batam palma, os outros números
+devem ser pronunciados normalmente.
+
+3º momento:: Solicite que ao invés de falar o número 2, que batam com as duas mãos na
+barriga, o número 3 deve ser pronunciado normalmente. Começa a complicar.
+
+4º momento:: Solicite que ao invés de falar o número 3, que dêm uma "reboladinha".
+
+A situação fica bem divertida.
 
 == 24. Dinâmica do Amor
 
 Objetivo:: Moral: Devemos desejar aos outros o que queremos para nós mesmos.
 
-Procedimento::
+=== Procedimento
 Para início de ano Ler o texto ou contar a história do "Coração partido" - Certo homem estava para ganhar o concurso do coração mais bonito. Seu coração era lindo, sem nenhuma ruga, sem nenhum estrago. Até que apareceu um velho e disse que seu coração era o mais bonito pois nele havia. Houve vários comentários do tipo: "Como seu coração é o mais bonito, com tantas marcas?" O bom velhinho, então explicou que por isso mesmo seu coração era lindo. Aquelas marcas representavam sua vivência, as pessoas que ele amou e que o amaram. Fianlmente todos concordaram, o coração do moço, apesar de lisinho, não tinha a experiência do velho." Após contar o texto distribuir um recorte de coração (chamex dobrado ao meio e cortado em forma de coração), revistas, cola e tesoura. Os participantes deverão procurar figuras que poderiam estar dentro do coração de cada um. Fazer a colagem e apresentar ao grupo. Depois cada um vai receber um coração menor e será instruido que dentro dele deverá escrever o que quer para o seu coração. Ou o que quer que seu coração esteja cheio.. O meu coração está cheio de... No final o instrutor deverá conduzir o grupo a trocar os corações, entregar o seu coração a outro. Fazer a troca de cartões com uma música apropriada, tipo: Coração de Estudante, Canção da América ou outra.
 
 Contribuição enviada pela usuária: Tereza Cristina da Silveira Carvalho - Professora- Goiânia- GO
@@ -458,7 +454,7 @@ Esta dinâmica foi baseada na teoria de Vygotsky, visando o processo criativo, a
 
 Material:: Bexiga, tira de papel
 
-Procedimento::
+=== Procedimento
 
 Formação em círculo, uma bexiga vazia para cada participante, com um tira de papel dentro (que terá uma palavra para o final da dinâmica)
 O o facilitador dirá para o grupo que aquelas bexigas são os problemas que enfretamos no
@@ -495,7 +491,9 @@ principalmente os alunos vindos de outras escolas.
 Material:: Pedaço de papel em branco, caneta, saco plastico, pano preto para cobrir os olhos
 e cadeiras.
 
-Procedimento:: Escreva tarefas para serem realizadas pelos alunos; recorte-ás e as coloque dentro de um saco plástico para serem sorteadas; faça um círculo com as cadeiras e
+=== Procedimento
+
+Escreva tarefas para serem realizadas pelos alunos; recorte-ás e as coloque dentro de um saco plástico para serem sorteadas; faça um círculo com as cadeiras e
 coloque os alunos nas mesmas; escolha o primeiro participante e coloque o pano sobre os
 seus olhos; coloque-o dentro do círculo e movimente-o de modo que perca a direção inicial;
 o aluno deverá ir para qualquer direção de modo que encoste em outra que estará sentada,
@@ -506,7 +504,9 @@ uma tarefa a ser realizada por ele mesmo; o participante que já foi tocado não
 
 Material:: Pedaço de papel em branco, caneta
 
-Procedimento:: O condutor da dinâmica distribui folhas de papel sulfite em branco e canetas para o grupo. O condutor da dinâmica pede que ao dar um sinal todos desenhem o que ele pedir sem
+=== Procedimento
+
+O condutor da dinâmica distribui folhas de papel sulfite em branco e canetas para o grupo. O condutor da dinâmica pede que ao dar um sinal todos desenhem o que ele pedir sem
 tirar a caneta do papel. Ele pede que iniciem, dando o sinal. Pede que desenhem um rosto
 com olhos e nariz. Em seguida, pede que desenhem uma boca cheia de dentes. continuem o
 desenho fazendo um pescoço e um tronco. É importante ressaltar sempre que não se pode
@@ -540,7 +540,9 @@ Objetivo:: mostrar que o outro é importante pra nossa vida
 
 Material:: um urso de pelúcia
 
-Procedimento:: Forme um círculo com todos e passe o urso de mão em mão, quem estiver com o urso
+=== Procedimento
+
+Forme um círculo com todos e passe o urso de mão em mão, quem estiver com o urso
 deverá falar o que tem vontade de fazer com ele. No final que todos falarem deve-se pedir
 para que façam o mesmo que fizeram com o urso com a pessoa do lado.
 
@@ -583,17 +585,20 @@ Após o término dos desenhos, o coordenador orienta o grupo a sentarem-se em tr
 A análise deste jogo se dá pela valorização que damos à genética, à nossa história de vida
 pessoal baseada nos valores e comportamentos familiares. Da percepção que temos do espaço social chamado Família.
 
-Que personagem da família foi mais fácil desenhar?
-Dentre as qualidades que você herdou, qual foi mais confortável anotar? Por que?
-Que característica você nota em seus familiares e você ainda não possui? Deseja possuir?
-Que sentimentos este exercício trouxe à tona?
-Que herança é mais fácil herdar? Características ou valores financeiros?
+- Que personagem da família foi mais fácil desenhar?
+- Dentre as qualidades que você herdou, qual foi mais confortável anotar? Por que?
+- Que característica você nota em seus familiares e você ainda não possui? Deseja possuir?
+- Que sentimentos este exercício trouxe à tona?
+- Que herança é mais fácil herdar? Características ou valores financeiros?
 
 == 32. Dinâmica: "O feitiço virou contra o feiticeiro"
 
-Objetivo:: Respeito ao próximo. Não faça ou deseje aos outros o que não gostaria para si
+|====
+|Objetivo| Respeito ao próximo. Não faça ou deseje aos outros o que não gostaria para si
+|Material| papel e caneta
+|====
 
-Material:: papel e caneta
+=== Procedimento
 
 Forma-se um círculo, todos sentados, cada um escreve uma tarefa que gostaria que seu companheiro da direita realizasse, sem deixá-lo ver. Após todos terem escrito,
 o feitiço vira contra o feiticeiro, que irá realizar a tarefa é a própria pessoa que escreveu.
@@ -614,24 +619,22 @@ que alguém erre a ordem da história pagando assim uma prenda a escolha do grup
 
 Cria-se cada história engraçada... É bem divertido, aproveitem.
 
-== 34. Dinâmica: " Recital das Almas Gêmeas"
+== 34. Dinâmica: "Recital das Almas Gêmeas"
 
 Objetivo:: É uma atividade muito divertida, que tem como objetivo a descontração e a aproximação entre os membros do grupo.
 
 Material:: papel e caneta
 
-Procedimento:: Divide-se a turma em duas equipes. Em papeis serão escritas mensagens
-que se completam (perguntas e respostas ou parte 1 e parte 2). Cada participante deverá
-pegar um papel, ou mais conforme a quantidade de papeis e participantes, sem deixar que
-seus colegas vejam o que está escrito. A mensagem será ex: 1 - 'eu sou um jardim sem
-flor', 2- ' eu sou a flor do teu jardim'. A segunda parte complementa a primeira. É importante que as mensagem sejam criativas e engraçadas. É preciso demarcar quais são as primeiras partes, para que sejam recitadas primeiramente, sendo completadas pela sua respectiva
-segunda parte.
+=== Procedimento
+
+Divide-se a turma em duas equipes. Em papeis serão escritas mensagens que se completam (perguntas e respostas ou parte 1 e parte 2). Cada participante deverá pegar um papel, ou mais conforme a quantidade de papeis e participantes, sem deixar que seus colegas vejam o que está escrito. A mensagem será ex: 1 - 'eu sou um jardim sem flor', 2- ' eu sou a flor do teu jardim'. A segunda parte complementa a primeira. É importante que as mensagem sejam criativas e engraçadas. É preciso demarcar quais são as primeiras partes, para que sejam recitadas primeiramente, sendo completadas pela sua respectiva segunda parte.
 
 == 35. Dinâmica: "Para quem você tira o chapéu"
 
-Objetivo:: Estimular a autoestima
-
-Materiais:: um chapéu e um espelho
+|====
+|Objetivo| Estimular a autoestima
+|Materiais| Um chapéu e um espelho
+|====
 
 === Procedimento
 
@@ -645,7 +648,7 @@ depois de dizer suas qualidades. Espero que gostem!
 
 == 35. 1. Outra Versão: Dinâmica "Caixinha de Surpresas"
 
-Objetivo:: Dinâmica do auto-conhecimento;Falar sobre si
+Objetivo:: Dinâmica do auto-conhecimento; Falar sobre si
 
 Materiais:: caixinha com tampa, e Espelho
 
@@ -658,16 +661,16 @@ para uma pessoa e pedir que fale sobre a pessoa da foto, e não devem deixar cla
 pessoa importante é ela própria. Ao final, o animador deve provocar para que as pessoas
 digam como se sentiram falando da pessoa importante que estava na foto.
 
-== 36. Dinâmica: "Chupa ai"
+== 36. Dinâmica: "Chupa essa bala!"
 
 Objetivo:: Estimular o Trabalho em Equipe.
 
 Materiais:: Uma bandeja e balas de acordo com o nº de participantes. As balas devem ser
 colocadas dentro da bandeja.
 
-Procedimento:: forma-se um circulo, diga então aos participantes: 'vocês terão que chupar
-uma bala, só que não poderão usar suas mãos para desembrulhar a bala e colocar em sua
-própria boca'.
+=== Procedimento
+
+Forma-se um circulo, diga então aos participantes: 'vocês terão que chupar uma bala, só que não poderão usar suas mãos para desembrulhar a bala e colocar em sua própria boca'.
 
 Os participantes ficam loucos pensando como fazer isso, é interessante colocar a bandeja no
 chão. Alguns participantes até pegam a bala com a boca e tenta desembrulhar na boca.
@@ -677,43 +680,32 @@ coloque na boca do outro.
 
 Muito divertida esta dinâmica!
 
-== 37. Dinâmica: " do papel"
-
-Objetivo:: Descontração
-
-Materiais:: pedaço de papel, caneta
-
-Procedimento:: Forma-se um círculo e em seguida será distribuído um pedaço de papel para
-cada um, e uma caneta. Logo após a pessoa irá escrever qualquer pergunta que ela quiser, ex: Porque hoje fez sol? entendeu?!É qualquer pergunta, o que vier na cabeça. Ai logo após
-o instrutor irá pegar os papéis de todos os participantes, embaralhar e entregar um para
-cada (só que você não poderá pegar o seu), ai depois de feito isso a pessoa vai responder o
-que estiver naquele papel que ela pegou. Depois que todos responderem sem um ver o do
-outro, você vai dobrar seu papel e vai passar 2 vezes para seu lado direito todos juntos. Ai
-começa a brincadeira. Uma pessoa começa lendo o que está em seu papel, em seguida a
-pessoa do lado direito ou esquerdo (depende do monitor escolher), digamos que foi pela
-direita, ai a pessoa vai ler o que está escrito na RESPOSTA dela, e assim sucessivamente, a
-mesma que respondeu a resposta vai ler a sua pergunta e o vizinho ao lado responderá a
-sua resposta é muito legal e divertindo causando muitos risos!!!!
 
 == 38. Dinâmica: "dança da cadeira cooperativa"
 
-Objetivo:: essa dinâmica serve para quebrar o gelo e fazer com que os participantes pensem
+Objetivo:: Essa dinâmica serve para quebrar o gelo e fazer com que os participantes pensem
 sobre cooperação entre o grupo.
 
-Materiais:: 1 cadeira
+Materiais:: várias cadeiras
 
-Procedimento:: consiste na brincadeira da dança da cadeira (mesmo procedimento), só que
+=== Procedimento
+
+Consiste na brincadeira da dança da cadeira (mesmo procedimento), só que
 em ao invés dos que ficarem sem se sentar saírem, terão que se sentar no colo do amigo,
 de modo que ninguém fique em pé. É muito engraçado! Ao final, com apenas uma cadeira
 todo o grupo terá que se sentar um no colo do outro.
 
 == 39. Dinâmica: " da rosa" (infantil)
 
-Objetivo:: despertar a atitude em preservar o que temos.
+Objetivo:: Preservação. Despertar a atitude em preservar o que temos.
 
 Materiais:: uma flor (rosa) natural
 
-Procedimento:: fazer um círculo, e cada integrante retira um pedacinho da flor, ao final sobrará apenas o talo da flor. O monitor da dinâmica questiona o que aconteceu? Será que
+Idade:: Intanfil
+
+=== Procedimento
+
+Fazer um círculo, e cada integrante retira um pedacinho da flor, ao final sobrará apenas o talo da flor. O monitor da dinâmica questiona o que aconteceu? Será que
 podemos consertar o que fizemos? Essa dinâmica pode ser trabalhada com os pequeninos, a
 fim de preservar os materiais dentro da sala de aula, ou preservar o próprio meio ambiente.
 
@@ -723,7 +715,11 @@ Objetivo:: Mostrar para a turma que antes de pedir para alguém fazer alguma coi
 coloque no lugar do outro, pois provavelmente ele não faria o que escolheu para o outro
 grupo fazer.
 
-Materiais:: Procedimento: Divide-se a turma em dois grupos e pede-se para que cada grupo escolha
+Materiais:: Nenhum.
+
+=== Procedimento
+
+Divide-se a turma em dois grupos e pede-se para que cada grupo escolha
 dois micos para o outro grupo. Após a escolha do mico nomeia-se um líder de cada grupo
 que fala em voz alta para todos os micos escolhidos.
 
@@ -731,33 +727,42 @@ Após a divulgação o professor diz que o nome da brincadeira é o feitiço vir
 
 == 41. Dinâmica: "do deficiente visual"
 
-Objetivo:: Essa dinâmica tem como objetivo motivar a confiança em equipe.
+Objetivo:: Confiança. Essa dinâmica tem como objetivo motivar a confiança em equipe.
 
-Materiais:: espaço aberto
+Materiais:: Espaço aberto
 
-Procedimento:: Formam-se duplas e um fecha os olhos e se deixa ser guiado pelo o outro,
+=== Procedimento
+
+Formam-se duplas e um fecha os olhos e se deixa ser guiado pelo o outro,
 que deve estar com os olhos abertos, depois o papel se inverte. Pode ser colocado uma música de fundo.
 
 == 42. Dinâmica: "sonhos"
 
-Objetivo:: Aprender a respeitar o sonhos dos outros
+Objetivo:: Respeito. Aprender a respeitar o sonhos dos outros
 
-Materiais:: balões coloridos, caneta, papel sulfite e palitos de dente.
+Materiais:: Balões coloridos, caneta, papel sulfite e palitos de dente.
 
-Procedimento:: O participante deverá escrever em um pedaço de papel seu sonho, dobrar e
+=== Procedimento
+
+O participante deverá escrever em um pedaço de papel seu sonho, dobrar e
 colocá-lo dentro do balão, que deve ser inflado. Cada um fica com um balão e um palito de
 dente na mão. O orientador dá a seguinte ordem: defendam seu sonho! Todos devem estar
 juntos em um lugar espaçoso. A tendência é todos estourarem os balões uns dos outros.
 
-Quando fizerem isto o orientador pergunta: _ Por que destruíram os sonhos dos outros?
+Quando fizerem isto o orientador pergunta: *Por que destruíram os sonhos dos outros?*
+
 Deixe eles pensarem um pouco e responda para defender o seu sonho você não precisa
 destruir os sonhos dos outros, basta que cada um fique parado e nenhum sonho será destruído!
 
 == 43. Dinâmica: "Sombra"
 
-Objetivo:: essa dinâmica está relacionada a percepção psicomotora e a interação interpessoal e interdisciplinar.
+Objetivo:: Essa dinâmica está relacionada a percepção psicomotora e a interação interpessoal e interdisciplinar.
 
-Procedimento:: Essa dinâmica é muito descontraída, o grupo desenvolve uma sincronia, escolhe um companheiro (centro)e começam a imitar todos os gestos que ele faça, o que ele
+Materiais:: nenhum.
+
+=== Procedimento
+
+Essa dinâmica é muito descontraída, o grupo desenvolve uma sincronia, escolhe um companheiro (centro)e começam a imitar todos os gestos que ele faça, o que ele
 fala, como se fossem o sombra dele, deixando um elemento do grupo ao centro.
 
 == 44. Dinâmica: "Patinho Feio"
@@ -766,26 +771,35 @@ Objetivo:: Reflexão
 
 Materiais:: Tiras de papel colante, caneta
 
-Procedimento:: Colar tiras de papel colante ou escrever em fitas para serem colocadas na
+=== Procedimento
+
+Colar tiras de papel colante ou escrever em fitas para serem colocadas na
 cabeça de modo que apareçam palavras as quais deverão ser seguidas pelos colegas que a
-lerem. Exemplo: beije-me, aperte minha mão,abrace-me, deixe-me, pisque para mim, etc
-etc.....sendo que apenas um elemento, deverá ficar com a palavra 'deixe-me'. sendo que
-esse será o único que não será procurado, será o patinho feio (deixe-me). No final, essa
-pessoa deverá contar como se sentiu, sendo discriminado e deixada de lado.
+lerem. Exemplo: beije-me, aperte minha mão, abrace-me, deixe-me, pisque para mim, etc
+etc. Sendo que apenas um elemento, deverá ficar com a palavra 'deixe-me ou ignore-me'. Sendo que
+esse será o único que não será procurado, será o patinho feio (deixe-me).
+
+No final, essa pessoa deverá contar como se sentiu, sendo discriminado e deixada de lado.
 
 == 45. Dinâmica: "Salada de Frutas"
 
 Objetivo:: memória e concentração
 
-Procedimento:: O grupo senta em círculo e o facilitador diz uma fruta qualquer e aponta para
+Materiais:: nenhum
+
+=== Procedimento
+
+O grupo senta em círculo e o facilitador diz uma fruta qualquer e aponta para
 um dos participantes. O participante escolhido deverá dizer a fruta falada pelo facilitador e
 uma de sua escolha. Aí começa a brincadeira. A pessoa que estiver ao lado direito da escolhida pelo facilitador deverá dizer a fruta do facilitador, da pessoa e a sua.
 
-Exemplo:: Facilitador - Maçã; Pessoa 1 - Maçã e Banana; Pessoa 2 - Maçã, Banana e Manga;Pessoa 3 - Maçã, Banana, Manga e Uva e assim sucessivamente até que alguém erre a
+Exemplo:: Facilitador - Maçã; Pessoa 1 - Maçã e Banana; Pessoa 2 - Maçã, Banana e Manga; Pessoa 3 - Maçã, Banana, Manga e Uva e assim sucessivamente até que alguém erre a
 seqüência. Para a pessoa que errar pode ser solicitado um 'castigo' ou um 'mico'.
 
-NOTE: 1º Em vez de frutas a brincadeira pode ser feita com carros, países, estados, objetos
-(praia, casa, sala, etc.); 2º Eu faço essa brincadeira com as minhas turmas do grupo de Reciclagem da Língua Portuguesa (in company) e garante ótimos resultados. Como castigo à
+NOTE: Em vez de frutas a brincadeira pode ser feita com carros, países, estados, objetos
+(praia, casa, sala, etc.);
+
+NOTE: Eu faço essa brincadeira com as minhas turmas do grupo de Reciclagem da Língua Portuguesa (in company) e garante ótimos resultados. Como castigo à
 pessoa que erra, eu faço alguma pergunta sobre o conteúdo já estudado (como revisão), do
 conteúdo a ser estudado (como hipótese e suposição, para ver o conhecimento da pessoa
 sobre o assunto) e do conteúdo que está sendo estudado (como reforço). É uma brincadeira
@@ -796,7 +810,11 @@ participantes super descontraídos.
 
 Objetivo:: estimular a atenção e interação com os colegas
 
-Procedimento:: Numa grande roda a pessoa começa a brincadeira dizendo o nome de uma
+Materiais:: nenhum.
+
+=== Procedimento
+
+Numa grande roda a pessoa começa a brincadeira dizendo o nome de uma
 parte do corpo. passando a vez. A pessoa que estiver ao lado determinado irá colocar a mão
 na parte do corpo que a primeira pessoa falou, e dizer outra parte do corpo passando a vez.
 
@@ -808,7 +826,9 @@ Objetivo:: Interação
 
 Materiais:: quebra-cabeça, pedaços de papel e caneta
 
-Procedimento:: Dois grupos formam um círculo, com os componentes intercalados ( ex. um
+=== Procedimento
+
+Dois grupos formam um círculo, com os componentes intercalados ( ex. um
 do amarelo, outro do azul e assim em diante até terminar o círculo). Cada componente deve
 escrever em um pedaço de papel uma qualidade própria (usando apenas uma palavra) e
 entregar para o participante do lado direito, sendo este o componente do grupo oposto, que
@@ -820,10 +840,12 @@ grupo anterior que estava fazendo a mímica começa a fazer também a sua e assi
 
 Objetivo:: Esta dinâmica serve pra se perceber que o meio ambiente é vivo.
 
-Materiais:: estetoscópio
+Materiais:: estetoscópio, árvores.
 
-Procedimento:: Ao realizar uma caminhada numa trilha, onde houver em locais úmidos, árvores com caule fino, pegar o estetoscópio e pedir pra que a pessoa ouça seu coração, logo
-após escutar no caule e perceber o som do movimento de água(xilema) e de nutrientes(floema).
+=== Procedimento
+
+Ao realizar uma caminhada numa trilha, onde houver em locais úmidos, árvores com caule fino, pegar o estetoscópio e pedir pra que a pessoa ouça seu coração, logo
+após escutar no caule e perceber o som do movimento de água (xilema) e de nutrientes (floema).
 
 == 49. Dinâmica: "qualidades e defeitos"
 
@@ -831,10 +853,15 @@ Objetivo:: falar das qualidades e defeitos.
 
 Materiais:: pedaço de papel, caneta
 
-Procedimento:: gostaria de sugerir uma dinâmica que fiz com meus alunos para falarmos das
-qualidades e defeitos. Entrega-se um pedaço de papel para cada participante e pede que
+=== Procedimento
+
+Entrega-se um pedaço de papel para cada participante e pede que
 desenhe a mão direita e a mão esquerda. Em cada dedo primeiro da mão direita escreve-se
-uma qualidade e na esquerda um defeito. O coordenador da dinâmica dá cerca de 20 minutos para escreverem. Ao final discute-se de acordo com o que cada um escreveu, finalizando
+uma qualidade e na esquerda um defeito.
+
+O coordenador da dinâmica dá cerca de 20 minutos para escreverem.
+
+Ao final discute-se de acordo com o que cada um escreveu, finalizando
 que é mais fácil falar de características dos outros do que de nós mesmos e encerra dizendo
 que todos possuímos qualidades e defeitos, porém temos que nos respeitarmos e priorizarmos nossas qualidades.
 
@@ -844,39 +871,51 @@ Objetivo:: para reunião de pais
 
 Materiais:: Papel e caneta
 
-Procedimento:: Pedir que os alunos escreva em um papel pequeno a seguinte frase: 'eu amo
+=== Procedimento
+
+Pedir que os alunos escreva em um papel pequeno a seguinte frase: 'eu amo
 a minha família'. Não pode ser assinado. Todos pedaços de papel deverá ter um número que
-corresponda o número que a coordenadora da reunião manterá em segredo. No dia da reunião todos os papéis serão colocados espalhados em uma mesa e os pais deverão reconhecer a letra do filho e pegar um papel. Depois a coordenadora irá verificar se os pais acertaram e conhece a letra de seus filhos.
+corresponda o número que a coordenadora da reunião manterá em segredo.
+
+No dia da reunião todos os papéis serão colocados espalhados em uma mesa e os pais deverão reconhecer a letra do filho e pegar um papel. Depois a coordenadora irá verificar se os pais acertaram e conhece a letra de seus filhos.
 
 == 51. Dinâmica: "do General"
 
-Objetivo:: descontração... causa muitos risos e simpatia entre os participantes
+Objetivo:: descontração
 
-Procedimento:: Uma dinâmica para entreter... como uma brincadeira...
+Materiais:: nenhum
 
-Há várias posições nesse jogo, como: lixo, soldado, cabo, sargento, coronel, general etc...
+=== Procedimento
 
-O general começa falando 'Passei a revistar minha tropa e senti falta do...(ele diz o nome de
-uma das posições)
-A pessoa se levanta (a não ser que seja o cargo mais baixo, nesse caso, o General se levanta, e ele continua sentado) e diz 'O ... nunca falta, senhor(o cargo mais baixo não diz senhor ao general)
-General - então quem falta?... - Quem falta é o ..., senhor
+Há várias posições nesse jogo, como: lixo, soldado, cabo, sargento, coronel, general etc.
+
+- O general começa falando 'Passei a revistar minha tropa e senti falta do...(ele diz o nome de
+uma das posições).
+
+- A pessoa se levanta (a não ser que seja o cargo mais baixo, nesse caso, o General se levanta, e ele continua sentado) e diz 'O ... nunca falta, senhor(o cargo mais baixo não diz senhor ao general)
+General - então quem falta?...
+
+- "Quem falta é o ..., senhor"
+
 E assim se procede... até que alguém não se levante, ou levante na hora errada, ou esqueça de dizer 'senhor' ou diga senhor na hora errada
 
 NOTE: Se levanta apenas para um cargo mais elevado, e se diz senhor, também apenas para
 um cargo mais elevado. Nesse caso, a pessoa que errou vai para o cargo mais baixo, e cada
 pessoa sobe um cargo...Então, começa com o general dizendo 'Passei a revistar minha tropa(...)'
 
-OBS2:: O cargo mais baixo nunca diz senhor ou se levanta para o general, mas para todos
+NOTE: O cargo mais baixo nunca diz senhor ou se levanta para o general, mas para todos
 os outros participantes, sim...O general nunca se levanta ou diz senhor... apenas para o
 cargo mais baixo...
 
-OBS3:: se faltarem cargos, pode-se inventar mais alguns, como cocô, ou balde, ou algo assim...
+NOTE: se faltarem cargos, pode-se inventar mais alguns, como cocô, ou balde, ou algo assim...
 
 == 52. Dinâmica: "da inteligência"
 
 Objetivo:: melhorar a percepção
 
-Procedimento:: Você pega um grupo e divide em 2 a 2, um olhando pro outro. Peça a eles
+=== Procedimento
+
+Você pega um grupo e divide em 2 a 2, um olhando pro outro. Peça a eles
 para que se observem por 2 minutos, depois peça para eles se virarem de costas e mudarem três coisas em si mesmos e depois desviarem e fazerem com que o parceiro descubra o
 que foi mudado. O outro também repete e assim sucessivamente repita por 3 vezes esta
 dinâmica.
@@ -887,36 +926,42 @@ Objetivo:: ?
 
 Material:: folhas de revista, pátio ou sala, todos sentados em círculo
 
-Procedimento:: Dar uma folha de revista a cada participante e pede para que amassem bastante a folha, após todos amassarem pede para que desamassem novamente deixando a
+Categoria:: Infantil.
+
+=== Procedimento
+
+Dar uma folha de revista a cada participante e pede para que amassem bastante a folha, após todos amassarem pede para que desamassem novamente deixando a
 folha como era antes.
 
 Ninguém irá conseguir, então explica-se que a folha representa as nossas palavras que uma
 vez ditas não podem mais serem consertadas, por isso devemos ter cuidado ao falar para
 que não venhamos a machucar o próximo, pois uma vez aberta a ferida será difícil cicatrizar.
 
-== 54. Dinâmica: " do balão"
+== 54. Dinâmica: "do balão"
 
 Objetivo:: Reflexão
 
 Material:: balões palitos de dentes uma caixa de bombons ou algum outro prêmio
 
-Procedimento:: entrega-se um balão para cada participante e em seguida um palito de dentes, pede-se para todos se espalharem e diz o seguinte: _ganha esta caixa de bombons
+=== Procedimento
+
+Entrega-se um balão para cada participante e em seguida um palito de dentes, pede-se para todos se espalharem e diz o seguinte: _ganha esta caixa de bombons
 quem conseguir ficar com o balão sem estourar.
 
 Sem que o instrutor mande todos os participantes correm para estourar os balões dos adversários para ganhar a caixa de bombons, mas geralmente não sobra nenhum balão. Depois o instrutor pergunta: em que momento eu mandei vocês estourarem os balões dos colegas ? E fica com a caixa ou distribui.
 
-NOTE: se gostarem divulguem!
-
-== 55. Dinâmica: " da Pergunta Certa"
+== 55. Dinâmica: "descubra a pessoa Certa"
 
 Objetivo:: Esta dinâmica irá despertar uma atenção maior a concentração e estratégia.
 
-Material:: papel e fita crepe
+Material:: papel, caneta e fita adesiva
 
-Procedimento:: Esta dinâmica para funcionar independe da quantidade de pessoas participantes. Um exemplo, em um grupo o coordenador deverá colar um nome de uma pessoa
+=== Procedimento
+
+Esta dinâmica para funcionar independe da quantidade de pessoas participantes. Um exemplo, em um grupo o coordenador deverá colar um nome de uma pessoa
 famosa nas costas dos participantes, sem que eles vejam o que esta escrito, então ganha a
 dinâmica quem descobrir primeiro o nome que está escrito em suas costas, para ajudá-los
-eles poderão fazer perguntas entre si como por exemplo 'a pessoa é loira?', mas as respostas só poderão ser sim ou não.
+eles poderão fazer perguntas entre si como por exemplo 'a pessoa é loira?', mas as respostas só poderão ser *sim* ou *não*.
 
 == 56. Dinâmica: " Carta a si próprio"
 
@@ -924,18 +969,28 @@ Objetivo:: Levantamento de expectativas individuais, compromissos consigo própr
 
 Material:: Envelope, sulfite, caneta.
 
-Procedimento:: 20'
+Tempo:: 20 min
+
+=== Procedimento
+
 Individualmente, cada treinando escreve uma carta a si próprio, como se estivesse escrevendo a seu (sua) melhor amigo (a). Dentre os assuntos, abordar: como se sente no momento, o que espera do evento (curso, seminário, etc.), como espera estar pessoal e profissionalmente daqui a 30 dias. Destinar o envelope a si próprio (nome e endereço completo
-para remessa). O Facilitador recolhe os envelopes endereçados, cola-os perante o grupo e,
+para remessa).
+
+O Facilitador recolhe os envelopes endereçados, cola-os perante o grupo e,
 após 45 dias aproximadamente, remete ao treinando (via correio ou malote).
 
-== 57. Dinâmica: " da Bexiga"
+== 57. Dinâmica: "Aprendendo a pedir ajuda"
 
-Objetivo:: Mostrar que nem sempre os caminhos mais fáceis são os melhores, aliás quase
+Objetivo:: Ensinar a pedir ajuda. Mostrar que nem sempre os caminhos mais fáceis são os melhores, aliás quase
 nunca. Se precisarem da ajuda de outro diga, que quando não conseguimos vencer algo sozinhos (vícios, frustrações etc.) podemos pedir ajuda a outra pessoa, mais velhas (no caso
 de adolescentes).
 
 Material:: bexigas coloridas; fitinha (fita de presente); mini balas; tirinhas de papel com palavras boas e ruins do tipo sucesso, amor, paz, vida eterna, mentira, drogas.
+
+Público:: pode ser feito com pré-adolescentes, adolescentes, jovens e adultos, mudando as
+palavras para cada faixa etária. Boa sorte!
+
+=== Procedimento
 
 Chegue antes para preparar a sala.
 
@@ -944,8 +999,6 @@ cole no teto essa bexiga, de forma que fique fácil de pegar, dessa forma vá di
 bexigas e 'melhorando' as palavras até a última bexiga, no nosso caso foi Vida Eterna, coloque balas junto com a palavra chave, se ninguém alcançar diga que pode pedir ajuda um ao
 outro.
 
-Público: pode ser feito com pré-adolescentes, adolescentes, jovens e adultos, mudando as
-palavras para cada faixa etária. Boa sorte!
 
 == 58. Dinâmica: " Construindo uma fogueira"
 
@@ -953,13 +1006,15 @@ Objetivo:: mostrar a importância do trabalho em equipe
 
 Material:: palitos de sorvete ou de dente
 
-Procedimento:: separar os participantes em grupos menores de pelo menos 5 componentes.
+=== Procedimento
+
+Separar os participantes em grupos menores de pelo menos 5 componentes.
 
 Dar a cada grupo um punhado de palitos e pedir que façam uma fogueira. Cada equipe poderá pegar palitos dos outros grupos, mas deverá proteger os seus. O líder da brincadeira
 deverá observar e depois ressaltar quem fez o quê em cada grupo e ressaltar os que tentaram fazer tudo sozinhos, os que ficaram só olhando, os que foram tentar pegar palitos dos
 outros grupos por iniciativa própria e os que souberam liderar e delegar tarefas igualmente.
 
-A mesagem é que todas estas atitudes fazem parte da rotina do trabalho em equipe (feliz
+Ensinamento:: A mensagem é que todas estas atitudes fazem parte da rotina do trabalho em equipe (feliz
 ou infelizmente) e cada um deverá analisar-se e pensar no que pode estar melhorando.
 
 == 59. Dinâmica: " Toca do coelho"
@@ -969,7 +1024,9 @@ que haja integração entre o mesmo.
 
 Material:: ?
 
-Procedimento:: formar vários grupos de três pessoas, sendo que dois participantes vão dar
+=== Procedimento
+
+Formar vários grupos de três pessoas, sendo que dois participantes vão dar
 as mãos simulando uma toca e o outro participante é o coelho que ficará dentro da toca,
 num determinado momento o professor ou instrutor da um sinal e todos os coelhos devem
 trocar de toca, e depois todas as tocas trocam de lugar. Após e num determinado momento
@@ -987,7 +1044,9 @@ Objetivo:: sugiro uma dinâmica que criei, tendo em vista o estreitamento dos la
 
 Material:: cestinha, papel, caneta
 
-Procedimento:: Escrever os nomes de todos os participantes que já se conheçam mas que
+=== Procedimento
+
+Escrever os nomes de todos os participantes que já se conheçam mas que
 ainda não possuem laços definidos, como grupo de jovens de evangelização, colocar todos
 os envelopes em uma cestinha e pedir que todos tirem um papel, quando todos tiverem tirado o papelzinho, solicitar que o primeiro que tirou leia o nome em voz alta da pessoa e
 uma característica do colega, este que foi chamado levanta-se e dá um abraço no colega, e
@@ -1000,7 +1059,9 @@ contato físico entre os participantes faz com que haja um grande interação en
 
 Material:: Local amplo
 
-Procedimento:: O coordenador orienta a todos a se pegarem pelos braços bem apertados
+=== Procedimento
+
+O coordenador orienta a todos a se pegarem pelos braços bem apertados
 fazendo uma roda, ele sai da roda e tenta entrar, sendo impedido pela união dos braços,
 mostra que a união impede idéias contrárias. Em seguida pede que dois do grupo o se unam
 a ele aos braços, ele deixa cair-se pedindo que seus companheiros o segurem, mostrando
@@ -1012,7 +1073,9 @@ Objetivo:: Comprometimento
 
 Material:: Objeto pessoal,
 
-Procedimento:: Solicitar ao grupo que traga de sua residência qualquer objeto de muito apego(valor emocional).
+=== Procedimento
+
+Solicitar ao grupo que traga de sua residência qualquer objeto de muito apego(valor emocional).
 
 Fazer um sorteio(como se fosse amigo secreto) e trocar os objetos.
 
@@ -1028,7 +1091,9 @@ Objetivo:: Percepção + trabalho em equipe+disciplina
 
 Material:: Cortar tiras de cartolina (larga+/- 15cm e 50cm de cumprimento), bolinha pequena e balde
 
-Procedimento:: Levar a bolinha até o balde numa tira de cartolina. Dividir a equipe em dois grupos.
+=== Procedimento
+
+Levar a bolinha até o balde numa tira de cartolina. Dividir a equipe em dois grupos.
 
 Marcar um ponto de partida e o tempo (30 seg) para conduzirem a bolinha da partida até o
 balde (analisar a distância de acordo com o número de participantes) com algumas observações:
@@ -1047,7 +1112,9 @@ Objetivo:: confiança que temos que ter no amigo do trabalho, espirito de equipe
 
 Material:: Espaço físico
 
-Procedimento:: Pedir para o grupo de posicionarem um de costas para o outro, mas devem
+=== Procedimento
+
+Pedir para o grupo de posicionarem um de costas para o outro, mas devem
 encostar mesmo, ombro a ombro. Em seguida pedir para que cada dupla se abaixe até o
 chão sem colocar as mãos no chão. Alguns vão cair, outros vão conseguir, esta dinâmica é
 muito engraçada e é recomendada a aplicação para um dia em que se espera um maravilhoso faturamento. Fechar falando da confiança que temos que ter no amigo do trabalho,
@@ -1074,7 +1141,9 @@ Objetivo:: Conhecimento e entrosamento do grupo.
 
 Material:: com balões conforme o número de participantes.
 
-Procedimento:: COLOCAR O GRUPO EM círculo; DISTRIBUIR UM BALÃO PARA CADA UM; CADA PARTICIPANTE, INCLUSIVE O COORDENADOR FALARÁ ALGO BOM QUE LHE ACONTECEU NA VIDA, EX: MEU CASAMENTO....MEU NAMORADO....O NASCIMENTO DO MEU FILHO....O NASCIMENTO DA MINHA NETA....MINHA PROMOÇÃO NA EMPRESA...COMPRAR MINHA CASA
+=== Procedimento
+
+COLOCAR O GRUPO EM círculo; DISTRIBUIR UM BALÃO PARA CADA UM; CADA PARTICIPANTE, INCLUSIVE O COORDENADOR FALARÁ ALGO BOM QUE LHE ACONTECEU NA VIDA, EX: MEU CASAMENTO....MEU NAMORADO....O NASCIMENTO DO MEU FILHO....O NASCIMENTO DA MINHA NETA....MINHA PROMOÇÃO NA EMPRESA...COMPRAR MINHA CASA
 PRÓPRIA....MEU PRIMEIRO CARRO....MINHA FORMATURA....ETC ETC...CADA VEZ QUE A
 PESSOA CONTA UMA COISA BOA VAI ASSOPRANDO O SEU BALÃO, O CIRCULO VAI SE REPETINDO E CONTANDO COISAS BOAS ATÉ QUE O BALÃO ENCHA (SE ESTOURAR PASSE OUTRO BALÃO P/ O PARTICIPANTE). DEPOIS DE ENCHEREM TODOS OS BALÕES....UNS MAIS
 OU MENOS CHEIOS CONFORME A PESSOA COMPARTILHAR COISAS BOAS QUE LHE
@@ -1092,7 +1161,9 @@ Objetivo:: interação do grupo
 
 Material:: caixa de bombom, lápis e papel
 
-Procedimento:: Selecione números conforme os números de participantes, nesses números
+=== Procedimento
+
+Selecione números conforme os números de participantes, nesses números
 você escolherá o número que será sorteado (o critério será conforme o seu objetivo).
 
 Sorteie um embrulho de presente e nele um dizer: _"passe esse presente a uma pessoa a
@@ -1106,7 +1177,9 @@ Objetivo:: ?
 
 Material:: Caneta e Papel
 
-Procedimento:: Formular frases sobre o tema a ser discutido, em torno de 10 frases afirmativas; certas ou erradas. Distribuir as folhas e solicitar que as pessoas procurem perguntar
+=== Procedimento
+
+Formular frases sobre o tema a ser discutido, em torno de 10 frases afirmativas; certas ou erradas. Distribuir as folhas e solicitar que as pessoas procurem perguntar
 as colegas se sim ou se não concordam com a afirmativa; somente uma pergunta para cada
 participante. Cada pessoa vai ser procurada por dez pessoas para responder. Explique que
 deverá escrever S para sim N para não e o nome da pessoa que respondeu frente da resposta dada para identificar quem respondeu.
@@ -1127,7 +1200,9 @@ e principalmente o respeito.
 
 Material:: Espaço físico amplo, cd, aparelho de som.
 
-Procedimento:: Os participantes deverão andar soltos pela sala ou espaço, ouvindo uma música. Haverá uma pessoa comandando, e quando a música pára, pede para o participante
+=== Procedimento
+
+Os participantes deverão andar soltos pela sala ou espaço, ouvindo uma música. Haverá uma pessoa comandando, e quando a música pára, pede para o participante
 procurar um parceiro que esteja usando uma peça de roupa com a cor parecida com a sua,
 ou usando algum acessório parecido com o seu. Pede para os pares se cumprimentarem
 com o aperto de mão. Depois, volta a música, andam, pára a musica e sugira outra coisa:
@@ -1155,7 +1230,9 @@ Objetivo:: Desenvolver o espírito de equipe e liderança
 
 Material:: bexiga, barbante
 
-Procedimento:: Ao fim de alguma apresentação, entrego uma bexiga para cada uma das
+=== Procedimento
+
+Ao fim de alguma apresentação, entrego uma bexiga para cada uma das
 pessoas em sala, com um barbante preso em seus punhos. Todas as bexigas(balões) estarão escrito VITÓRIA. Falarei a eles: - Cada um de vocês está segurando uma vitória em
 mãos, no entanto temos apenas um prêmio. Logo vocês têm uma tarefa, devem cuidar da
 vitória que têm em mãos e estourar a vitória de seus oponentes, a última bexiga que resistir será a única vitoriosa. Só há um detalhe, a vitória que vocês têm em mão não é de vocês, em cada uma das bexigas está o nome de um companheiro de classe de vocês e o
@@ -1174,7 +1251,9 @@ Objetivo:: Moral: Não deseje para os outros o que você não gostaria que fizes
 
 Material:: Folhas chamex cortadas ao meio, caneta ou lápis.
 
-Procedimento:: Faz-se um círculo e entrega-se meia folha para cada um e cada qual com sua
+=== Procedimento
+
+Faz-se um círculo e entrega-se meia folha para cada um e cada qual com sua
 caneta e pede-se a eles que escrevam algo que gostariam que o colega fizesse (mico mesmo), lembrando que eles devem escrever para eles, nenhum colega poderá ver. Após isto,
 recolhe-se os papeis e revela-se o que eles escreveram. O que eles escreveram será o que
 eles próprios irão fazer no centro da roda.
@@ -1186,7 +1265,9 @@ do que admitir sua concepção.
 
 Material:: pedaços de papel, caneta e fita adesiva.
 
-Procedimento:: o orientador cola um pedaço de papel nas costas de cada participante, então,
+=== Procedimento
+
+O orientador cola um pedaço de papel nas costas de cada participante, então,
 pede para que eles saiam andando pela sala e escrevam uma palavra nas costas de seus
 colegas, para assim, definir cada um.
 
@@ -1199,7 +1280,9 @@ Objetivo:: interagir o grupo e explorar determinada temática. (corpo, cores, fo
 
 Material:: cadeira
 
-Procedimento:: em círculo pedi para que uma pessoa fique no meio do círculo e retire a cadeira. No círculo escolha um membro e diga: _Eu te amo! O outro pergunta _ Porque você
+=== Procedimento
+
+Em círculo pedi para que uma pessoa fique no meio do círculo e retire a cadeira. No círculo escolha um membro e diga: _Eu te amo! O outro pergunta _ Porque você
 me ama? ele responde: _porque você está de blusa, por exemplo. E todos que estiverem de
 blusa tem que mudar de lugar. Sempre uma pessoa ficará de pé, e assim sucessivamente.
 
@@ -1210,7 +1293,9 @@ evadir seus sentimentos.
 
 Material:: Caderno e lápis
 
-Procedimento:: é um caderno onde os alunos fazem uma espécie de álbum, com a diferença
+=== Procedimento
+
+é um caderno onde os alunos fazem uma espécie de álbum, com a diferença
 que eles vão anotar o que gostam e o que não gostam de fazer ou viver.
 
 == 76. Dinâmica: "Pintura Moderna"
@@ -1219,7 +1304,9 @@ Objetivo:: explorar a criatividade e oralidade do indivíduo.
 
 Material:: Folha de papel e 3 tintas primárias
 
-Procedimento:: pegue uma folha e pingue três gotas de tintas nas cores primárias, após colocar a tinta dobrar a folha ao meio e espalhar a tinta com a folha dobrada. Em seguida
+=== Procedimento
+
+Pegue uma folha e pingue três gotas de tintas nas cores primárias, após colocar a tinta dobrar a folha ao meio e espalhar a tinta com a folha dobrada. Em seguida
 abri-la e tentar dá uma forma ao desenho;
 
 == 77. Dinâmica: " do Corpo Humano (aulas de ciências)"
@@ -1228,7 +1315,9 @@ Objetivo:: interação e trabalho em grupo
 
 Material:: folha sulfite, lápis de cor, fita crepe
 
-Procedimento:: Para essa atividade a classe deverá se agrupar em seis equipes. Cada equipe
+=== Procedimento
+
+Para essa atividade a classe deverá se agrupar em seis equipes. Cada equipe
 receberá de seu professor uma folha sulfite e lápis de cor . As equipes deverão desenhar em
 apenas 10 minutos uma das partes do corpo humano indicadas a seguir : 1º grupo: cabeça
 e pescoço; 2º grupo : tronco; 3º grupo: braço direito; 4º grupo: braço esquerdo; 5º grupo:
@@ -1244,7 +1333,9 @@ Objetivo:: Interação
 
 Material:: sala(espaço)
 
-Procedimento:: DESENVOLVE O TRABALHO EM GRUPO E O COMPARTILHAMENTO DE IDEIAS COMUNS.
+=== Procedimento
+
+DESENVOLVE O TRABALHO EM GRUPO E O COMPARTILHAMENTO DE IDEIAS COMUNS.
 
 DIVIDE-SE O GRUPO EM DOIS E UMA PESSOA (NEUTRA) FICA ABAIXADA SIMULANDO ESTAR NO INTERIOR DE UMA CAIXA. ELA NÃO PODE SE MEXER. O ORIENTADOR FAZ MÍMICAS EM TORNO DA PESSOA ABAIXADA PARA OS GRUPOS IMAGINAREM UMA CAIXA INVISÍVEL EM TORNO DELA. OS GRUPOS DEVEM TENTAR LIBERTAR A PESSOA DA CAIXA SEM LEVANTÁ-LA. O QUE ELES DEVEM FAZER, É TER A IDÉIA DE TIRAR A CAIXA POR CIMA, MAS NÃO DEVEM SABER DISSO ATÉ QUE PENSEM NESSA POSSIBILIDADE. O IDEAL É QUE OS GRUPOS CRIEM UM VERDADEIRO MERCADO DE PEIXE AO TENTAR IMAGINAR UMA SAíDA É SIMPLES, MAS SE OS GRUPOS FOREM COESOS, TODOS DESCOBRIRÃO COM FACILIDADE.
 
@@ -3654,6 +3745,7 @@ família ideal. Para isso, todos devem enfrentar uma série de provas. Para algu
 família (equipe) que vence uma prova, recebe um coração. As últimas atividades realizamse em conjunto (duas equipes se unem).
 
 2- O animador vai propondo as equipes as diferentes provas:
+
 a) A família que chegar primeiro junto a ele, com a lista de todos os seus integrantes, recebe o coração da Comunicação.
 
 b) A família que melhor representar uma cena familiar, recebe o coração do Respeito. Dispõem de quatro minutos para a preparação desta prova.
